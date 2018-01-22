@@ -1,2 +1,2 @@
-# pv_inspec
-Development of an app fpr monitoring pressure vessels
+# PV agenda
+Development of an app for monitoring pressure vessels
